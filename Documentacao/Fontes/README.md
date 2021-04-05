@@ -1,0 +1,1 @@
+Coloque nesta pasta apenas fonte de aplicação em JAVA ou sua Workspace completa.
